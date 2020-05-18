@@ -1,0 +1,8 @@
+spring:
+    applicaiton:
+        name: testDockerJenkins
+
+server:
+    port: 9099
+
+
