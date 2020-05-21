@@ -1,6 +1,6 @@
 spring:
     applicaiton:
-        name: testDockerJenkins
+        name: test_docker_jenkins
 
 server:
     port: 9099
